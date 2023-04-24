@@ -1,4 +1,4 @@
-# action-recognition-experiment
+# dl_project_action_recodnition
 # Состав репозитория
 1. models - в файле описываются собственные модели
 2. utils - в этот файл записываются утилитарные функции
