@@ -1,1 +1,9 @@
-# dl_project_action_recodnition
+# action-recognition-experiment
+# Состав репозитория
+1. models - в файле описываются собственные модели
+2. utils - в этот файл записываются утилитарные функции
+3. experiments - блокнот с экспериментами
+4. presentation - презентация
+
+# Запуск
+Необходимо открыть блокнот experiments и выполнить в нем все ячейки.
